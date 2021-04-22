@@ -1,0 +1,39 @@
+.home{
+	 border-color: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    background-image:cover;
+    width: 100%;
+    background-color: #fff;
+}
+.kojo{
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+
+
+.dede{
+	width: 100%;
+
+}
+.carousel-me{
+	margin-top: 0px;
+	height: 500px;
+}
+
+.ck{
+	text-align: center;
+}
+.footer{
+	background-color: #303e73;
+}
+.dora{color: orange;
+}
+.naa{
+	color: lightgreen;
+}
+.esi{
+	color: white;
+}
